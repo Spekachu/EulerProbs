@@ -1,1 +1,7 @@
-ECHO is on.
+html {
+    min-height: 100%;
+}
+body {
+    min-height: 100%;
+    background-color: azure;
+}
